@@ -10,4 +10,4 @@ Throughout my journey, I've encountered numerous challenges, each one teaching m
 
 The primary goal of this blog is to share my insights and experiences with fellow enthusiasts, beginners, and professionals alike. Through detailed write-ups, tutorials, and real-world examples, I aim to demystify complex concepts, shed light on the latest trends, and provide practical guidance that empowers others to enhance their cybersecurity skills.
 
-So whether you're a curious learner, a seasoned practitioner, or anyone in between, I invite you to join me on this journey of discovery. Let's explore the fascinating world of cybersecurity together
+So whether you're a curious learner, a seasoned practitioner, or anyone in between, I invite you to join me on this journey of discovery. Let's explore the fascinating world of cybersecurity together.
