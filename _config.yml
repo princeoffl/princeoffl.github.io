@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "tags.html", title: "Tags", url: "/tags/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: linkedIn, icon: https://fontawesome.com/icons/linkedin-in?f=brands&s=solid, url: "https://linkedin.com/in/prince-vargheseoffl"}
+  - {title: linkedIn, icon: linkedin, url: "https://linkedin.com/in/prince-vargheseoffl"}
   - {title: Github, icon: github, url: "https://github.com/princeoffl"}
   - {title: X, icon: x, url: "https://x.com/princeVarg87441"}
 
