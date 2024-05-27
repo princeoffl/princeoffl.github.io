@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/prince-vargheseoffl"}
   - {title: Github, icon: github, url: "https://github.com/princeoffl"}
-  - {title: X, icon: x, url: "https://x.com/princeVarg87441"}
+  - {title: X, icon: x-twitter, url: "https://x.com/princeVarg87441"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
