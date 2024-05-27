@@ -2,7 +2,11 @@
 layout: page
 title: ""
 ---
-![Cover pic](/image/cover.jpg)
+![Cover pic](image/cover.jpg)
+
+<div style="text-align: center;">
+  <em><strong>Welcome to the cybersecurity realm, where knowledge is power and curiosity is key!</strong></em>
+</div>
 
 <center> _**Welcome to the cybersecurity realm, where knowledge is power and curiosity is key!**_ </center>
 
