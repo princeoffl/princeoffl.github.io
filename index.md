@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-Welcome to the cybersecurity realm, where knowledge is power and curiosity is key!
+_**Welcome to the cybersecurity realm, where knowledge is power and curiosity is key!**_
 
 Hey there! I'm **Prince Varghese**, a cybersecurity enthusiast eager to share the wonders of this dynamic field. Through my journey in cybersecurity, I've delved into web application, Android, and API penetration testing, constantly seeking to unravel the intricacies of digital security.
 
