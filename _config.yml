@@ -31,3 +31,5 @@ comments:
 
 plugins:
  - jekyll-feed
+
+permalink: /:categories/
