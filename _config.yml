@@ -1,7 +1,7 @@
 title: "Home"
 author: ""
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-permalink: /:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
@@ -31,5 +31,3 @@ comments:
 
 plugins:
  - jekyll-feed
-
-permalink: /:categories/
